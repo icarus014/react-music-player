@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Small Bio
+This music player was created using react, helping me practice with hooks and callbacks and this player, plays a beat that i made sometime this year.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -74,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-stanley-cowell-sample-tracklib-120bpm# react-music-player
+
