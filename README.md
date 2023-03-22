@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Small Bio
 This music player was created using react, helping me practice with hooks and callbacks and this player, plays a beat that i made sometime this year.
+ 
+ 03/21 Update:
+ As of now, this player can only pause and play music, but in the future i will add the ability to play other beats that i've made, with a skip and rewind function. 
 
 
 ## Available Scripts
